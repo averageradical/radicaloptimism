@@ -1,6 +1,6 @@
 # Radical Optimism Presentation
 
-This is a presentation about https://radicaloptimism.org/. The live presentation is at [http://averageradical.github.io/radicaloptimism/](http://averageradical.github.io/radicaloptismim/#/).
+This is a presentation about https://radicaloptimism.org/. The live presentation is at [http://averageradical.github.io/radicaloptimism/](http://averageradical.github.io/radicaloptimism/#/).
 
 # Presentation Technology
 
